@@ -1,2 +1,16 @@
-# Phase-I-Project
-FlatIron DS program: phase I project
+# Business Understanding
+
+# Data Understanding
+
+## Data Preparation
+
+# Exploratory Data Analysis
+
+# Conclusion
+
+## Limitations
+
+## Recommendations
+
+## Next Steps
+
