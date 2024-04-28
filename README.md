@@ -64,16 +64,16 @@ Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/no
 ## How to navigate this repository
 
 +--- aviation_data_analysis.ipynb  <br />
-+--- data
-|   +--- Aviation_Data.csv
-+--- figures
-|   +--- effect_of_engine.png
-|   +--- effect_of_location.png
-|   +--- effect_of_Make_and_Model_1.png
-|   +--- effect_of_Make_and_Model_2.png
-|   +--- effect_of_month.png
-+--- images
-|   +--- Header.png
-+--- literature
-|   +--- Use_of_Aircraft_Engine_Type_and_Quantity_and_their_Impact_on_Air_Transport_Safety.pdf
-+--- README.md
++--- data  <br />
+|   +--- Aviation_Data.csv  <br />
++--- figures  <br />
+|   +--- effect_of_engine.png  <br />
+|   +--- effect_of_location.png  <br />
+|   +--- effect_of_Make_and_Model_1.png  <br />
+|   +--- effect_of_Make_and_Model_2.png  <br />
+|   +--- effect_of_month.png  <br />
++--- images  <br />
+|   +--- Header.png  <br />
++--- literature  <br />
+|   +--- Use_of_Aircraft_Engine_Type_and_Quantity_and_their_Impact_on_Air_Transport_Safety.pdf  <br />
++--- README.md  <br />
