@@ -62,10 +62,11 @@ To improve the analysis, next steps include obtaining data on the total number o
 Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/notebooks/aviation_data_analysis.ipynb) or refer to [this presentation](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
 
 ## How to navigate this repository
+
 ├── data
 ├── figures
 ├── images
 ├── literature
 ├── README.md
-├── avia
+├── aviation_crash_data_analysis_SH.pdf
 └── aviation_data_analysis.ipynb
