@@ -18,7 +18,10 @@ Some aspects of safety we can investigate are:
 - **location:** certain regions may have higher number of fatal aviation accidents. Factors like weather, terrain topography and the location being a hub for certain activities may contribute to these statistics. 
 
 ## 3. Data Understanding and Analysis
-
+- **Source of Data:** This project analyzes the [aviation accident dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) on Kaggle (Note that the actual data we're using is located [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v3/tree/master/data)).
+- **Description of Data:**
+    - The data has 31 columns. There are two data types: object (string/text) and float. We note that the float data type seems appropriate for the columns listed (i.e., number of engines, total fatal/serious/minor injuries, and total uninjured). An int type may be more appropriate for these categories but changing the data type might introduce unwanted issues when performing statistical analysis so we will keep it as is for now. 
+ 
 ## 4. Conclusion
 Based on the analysis done above, the following **recommendations** for the stakeholders can be made: 
 1. **California, Florida and Texas** are the top three states in terms of the number of fatal aviation accidents. Most fatal accidents in these states are associated with flights that are conducted for personal (recreational) or instructional purposes. Therefore, if we solely rely on the data available at hand, **it is not recommended to pursue business in these three states for recreational or instructional aircrafts**.  
