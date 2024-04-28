@@ -1,6 +1,6 @@
 # Aviation Crash Data Analysis
 <center><img src="./images/Header.png" 
-    Width="1000">|
+    Width="1000">
     
 ## 1. Overview
 A company is expanding to new industries in an attempt to diversify its portfolio. More specifically, they're interested in purchasing airplanes for commercial and private enterprises. This study focuses on using available aviation crash data to identify aircrafts with the lowest safety risk that the company could invest in for starting their business endevaour in this area. 
