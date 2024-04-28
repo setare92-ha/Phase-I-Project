@@ -63,22 +63,22 @@ Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/no
 
 ## How to navigate this repository
 
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
-
-├── data
-├── figures
-├── images
-├── literature
-├── README.md
-├── aviation_crash_data_analysis_SH.pdf
-└── aviation_data_analysis.ipynb
++--- .ipynb_checkpoints
+|   +--- aviation_data_analysis-checkpoint.ipynb
+|   +--- README-checkpoint.md
++--- aviation_data_analysis.ipynb
++--- data
+|   +--- Aviation_Data.csv
++--- figures
+|   +--- .ipynb_checkpoints
+|   |   +--- effect_of_Make_and_Model_1-checkpoint.png
+|   +--- effect_of_engine.png
+|   +--- effect_of_location.png
+|   +--- effect_of_Make_and_Model_1.png
+|   +--- effect_of_Make_and_Model_2.png
+|   +--- effect_of_month.png
++--- images
+|   +--- Header.png
++--- literature
+|   +--- Use_of_Aircraft_Engine_Type_and_Quantity_and_their_Impact_on_Air_Transport_Safety.pdf
++--- README.md
