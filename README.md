@@ -5,6 +5,8 @@
 ## 1. Overview
 A company is expanding to new industries in an attempt to diversify its portfolio. More specifically, they're interested in purchasing airplanes for commercial and private enterprises. This study focuses on using available aviation crash data to identify aircrafts with the lowest safety risk that the company could invest in for starting their business endevaour in this area. 
 
+Initially, an overview of the project and the problem is given. Next, the data is explained and some of the main findings of the study will be summarized. Limitations and next steps are also explained in detail. More information on how the study is done and how you can navigate this repository effectively is included at the end. 
+
 ## 2. Business Understanding
 ### 2.1. Business Objective
 This project analyzes the [aviation accident dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) on Kaggle (Note that the actual data we're using is located [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v3/tree/master/data)). The findings will be used to make recommendations to stakeholders that may be looking to expand their business through purchasing and operating airplanes for commercial and private enterprises. 
@@ -55,3 +57,15 @@ The above study is limited in the following ways:
 2. In the absence of information on the total number of flights (including those without accidents), we're relying on the absolute number of fatal accidents as a metric for our analysis. As explained in the *Background Information* section, the *number of fatal crashes per every 100,000 flights* seems like a more standard measure to consider. However, in the absence of such data, we relied on the total number of fatal accidents as our metric. 
 
 To improve the analysis, next steps include obtaining data on the total number of inbound/outbound flights to/from each state, the total number of flights per make and model as well as the total number of flights done per engine type and engine count in the aircrafts. This will enable us to use a more proper metric (normalized ratio of total number of fatal accidents per total flights done during a certain period of time). It may also be desirable to have data on the profitability of each business pursuit (for example, investing in aircrafts for recreational versus travel or instructional purposes). A category may seem to be associated with lots of fatal accidents. However, it may also be highly profitable such that the business wouldn't lose money overall. 
+
+## Interested to know more?
+Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/notebooks/aviation_data_analysis.ipynb) or refer to [this presentation](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
+
+## How to navigate this repository
+├── data
+├── figures
+├── images
+├── literature
+├── README.md
+├── avia
+└── aviation_data_analysis.ipynb
