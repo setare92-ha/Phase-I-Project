@@ -63,15 +63,10 @@ Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/no
 
 ## How to navigate this repository
 
-+--- .ipynb_checkpoints
-|   +--- aviation_data_analysis-checkpoint.ipynb
-|   +--- README-checkpoint.md
-+--- aviation_data_analysis.ipynb
++--- aviation_data_analysis.ipynb  <br />
 +--- data
 |   +--- Aviation_Data.csv
 +--- figures
-|   +--- .ipynb_checkpoints
-|   |   +--- effect_of_Make_and_Model_1-checkpoint.png
 |   +--- effect_of_engine.png
 |   +--- effect_of_location.png
 |   +--- effect_of_Make_and_Model_1.png
