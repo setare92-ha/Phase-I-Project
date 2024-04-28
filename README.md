@@ -63,6 +63,18 @@ Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/no
 
 ## How to navigate this repository
 
+├── code
+│   ├── __init__.py
+│   ├── data_preparation.py
+│   ├── visualizations.py
+│   └── eda_notebook.ipynb
+├── data
+├── images
+├── __init__.py
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
+
 ├── data
 ├── figures
 ├── images
