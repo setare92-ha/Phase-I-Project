@@ -59,7 +59,9 @@ The above study is limited in the following ways:
 To improve the analysis, next steps include obtaining data on the total number of inbound/outbound flights to/from each state, the total number of flights per make and model as well as the total number of flights done per engine type and engine count in the aircrafts. This will enable us to use a more proper metric (normalized ratio of total number of fatal accidents per total flights done during a certain period of time). It may also be desirable to have data on the profitability of each business pursuit (for example, investing in aircrafts for recreational versus travel or instructional purposes). A category may seem to be associated with lots of fatal accidents. However, it may also be highly profitable such that the business wouldn't lose money overall. 
 
 ## Interested to know more?
-Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/notebooks/aviation_data_analysis.ipynb) or refer to [this presentation](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
+- Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
+- For an interactive dashboard, please see this [Tableau dashboard](https://public.tableau.com/views/Aviation_Crash_Data_Analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+- The presentation can be found here [this presentation](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
 
 ## How to navigate this repository
 
