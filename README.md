@@ -61,7 +61,7 @@ To improve the analysis, next steps include obtaining data on the total number o
 ## Interested to know more?
 - Please see the full analysis in this [Jupyter Notebook](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
 - For an interactive dashboard, please see this [Tableau dashboard](https://public.tableau.com/views/Aviation_Crash_Data_Analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-- The presentation can be found here [this presentation](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
+- The presentation can be found [here](http://localhost:8888/notebooks/aviation_data_analysis.ipynb).
 
 ## How to navigate this repository
 
