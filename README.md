@@ -69,7 +69,6 @@ To improve the analysis, next steps include obtaining data on the total number o
 │   aviation_data_analysis.ipynb <br />
 │   README.md <br />
 │
-├───.ipynb_checkpoints <br />
 │       aviation_data_analysis-checkpoint.ipynb <br />
 │       README-checkpoint.md <br />
 │
@@ -80,4 +79,3 @@ To improve the analysis, next steps include obtaining data on the total number o
 ├───literature <br />
 │
 └───presentation <br />
-        presentation.pdf 
