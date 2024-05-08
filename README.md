@@ -68,11 +68,10 @@ To improve the analysis, next steps include obtaining data on the total number o
 │   .gitignore <br />
 │   aviation_data_analysis.ipynb <br />
 │   README.md <br />
+│   presentation.pdf <br />
 │
 ├───figures <br />
 │
 ├───images <br />
 │
 ├───literature <br />
-│
-└───presentation <br />
