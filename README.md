@@ -31,25 +31,38 @@ This project analyzes the [aviation accident dataset](https://www.kaggle.com/dat
 
 ### 3.3. Key Visualizations
 
-<center><img src="./figures/effect_of_location.png"
-            
-**Figure 1.** Total number of fatal accidents in top 10 US states.  
+<left><img src="./figures/effect_of_location_normalized.png">       
 
-<center><img src="./figures/effect_of_engine.png"
-            
-**Figure 2.** Total number of fatal accidents per engine type and aircraft's total number of engines. 
+**Figure 1.** Ratio of fatal accidents in top 10 US states.  
 
-<center><img src="./figures/effect_of_Make_and_Model_1.png"
+<left><img src="./figures/grouped_by_flight_purpose.png">
             
-**Figure 3.** Total number of fatal accidents per the make and model combination of aircrafts. 
+**Figure 2.** Ratio of fatal accidents per purpose of flight. 
 
-## 4. Conclusion
+<left><img src="./figures/effect_of_engine_type_normalized.png">
+            
+**Figure 3.** Ratio of fatal accidents per engine type and aircraft's total number of engines. 
+
+<left><img src="./figures/effect_of_engine_count_normalized.png">
+            
+**Figure 4.** Ratio of fatal accidents per number of engines. 
+
+<left><img src="./figures/effect_of_Make_and_Model_normalized.png">
+            
+**Figure 5.** Ratio of fatal accidents per the make and model combination of aircrafts. 
+
+<left><img src="./figures/effect_of_month_normalized.png">
+            
+**Figure 6.** Ratio of fatal accidents per month of the year.
+
+## 4. Recommendations
 Based on the analysis done above, the following **recommendations** for the stakeholders can be made: 
-1. **California, Florida and Texas** are the top three states in terms of the number of fatal aviation accidents. Most fatal accidents in these states are associated with flights that are conducted for personal (recreational) or instructional purposes. Therefore, if we solely rely on the data available at hand, **it is not recommended to pursue business in these three states for recreational or instructional aircrafts**.  
-2. Aircrafts with reciprocating engines are highly involved in fatal aviation accidents. This doesn't necessarily mean that reciprocating engines are the cause of fatal accidents. However, it does indicate a correlation. Therefore, it's not recommended to invest in aicrafts with reciprocating engines.
-3. Aircrafts with higher number of engines seem to be safer in general. This is reasonable since having more engines ensures that the aircraft can remain operational in case one fails. Therefore, **it is recommended to be cautious about investing in small single-engine aircrafts.** 
-4. **Cessna, Piper and Beech** are associated with the highest number of fatal accidents. However, when both make and model are considered, **Cirrus Design Corp, SR22** is also among aircrafts with the highest number of fatal accidents. **It is, therefore, recommended to avoid using these aircrafts.** 
-5. Unlike an initial preconception that there may be more fatal accidents in months with extreme weather, **July and August** turn out to be the months with the highest number of fatal accidents. This observation may have an underlying cause: there are simply more flights taking place in these months. Regardless, **it seems reasonable to recommend that stakeholders expect and plan better for aviation incidents and accidents during these months.** 
+Based on the analysis done above, the following recommendations for the stakeholders can be made: 
+1. It is recommended that the stakeholders do not pursue business in South Dakota, West Virginia, and Georgia since they rank first in terms of having the highest ratio for fatal aviation accidents.
+2. It is recommended that business is not pursued in areas where aircrafts are usually used for *Air Race Shows*, as *Public Aircrafts* (used for government functions) and *External Load* aircrafts (aircrafts carrying loads that are suspended from the aircraft, often below the helicopter).  
+3. It is recommended to be cautious about investing in aircrafts with single/dual engines and turbo jet engines since they're associated with a high ratio of fatal accidents.
+4. It is recommended to avoid purchasing from the following manufacturers: Cirrus Design Corp, North American and Mooney since they're the top aircraft makes associated with the highest ratio of fatal accidents. More specifically, Cirrus Design Corp-SR22, Beech-A36 and Mooney-M20J with the worst performance.
+5. It is recommended that the business puts contingency plans in place and increases regular inspection from late fall through the whole winter season. 
 
 ## Limitations and Next Steps
 The above study is limited in the following ways:
